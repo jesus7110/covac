@@ -1,6 +1,8 @@
 # covac
 Covid Vaccination Booking
 
+#### Production Repo: https://github.com/jesus7110/production-covac
+
 Covac is a web application designed to facilitate easy and convenient COVID-19 vaccination bookings. It provides users with a platform to schedule their vaccination appointments, ensuring a streamlined process and contributing to the global effort in ending the pandemic.
 
 ## Features
@@ -41,6 +43,11 @@ Covac is a web application designed to facilitate easy and convenient COVID-19 v
 
    ```bash
    git clone https://github.com/your-username/covac.git
+   
+2. Install the project:
+
+   ```bash
+   npm install
 
 # Project Structure
 
