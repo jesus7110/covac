@@ -13,17 +13,26 @@ Covac is a web application designed to facilitate easy and convenient COVID-19 v
 
 ## Technologies Used
 
-# Client:
-- React: A JavaScript library for building user interfaces
+### Client:
+- ReactJs: A JavaScript library for building user interfaces
 - Ant Design: A design system for creating beautiful and responsive UI components
 - HTML5: Markup language for structuring the web page
 - CSS3: Styling language for enhancing the visual appearance
-- Lottie: Library for adding attractive animations to the web page
 - JavaScript: Programming language for implementing dynamic functionality
+
+
+
+
+### Sever:
+- NodetJs: A Javascript library for server management
+- ExpressJs : A Javascript library for serverbuilding
+- MongoDB: NoSql Database
+
+
+### Production-Deployment :
 - Git: Version control system for tracking changes in the codebase
 - GitHub: Hosting platform for storing and sharing the project repository
-
-# Sever:
+- Render: Free shared hosting this web app
 
 ## Installation
 
