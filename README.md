@@ -42,7 +42,7 @@ Covac is a web application designed to facilitate easy and convenient COVID-19 v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/covac.git
+   git clone https://github.com/jesus7110/covac.git
    
 2. Install the project:
 
