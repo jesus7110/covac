@@ -6,10 +6,11 @@ Covac is a web application designed to facilitate easy and convenient COVID-19 v
 ## Features
 
 - User-friendly interface for booking COVID-19 vaccination appointments
-- Multiple booking options: Call to Book and Book Online
-- Safety First: Strict adherence to health protocols for a safe and secure vaccination experience
-- Convenient Locations: Find vaccination centers near you with flexible appointment slots
-- Easy navigation and user-friendly design
+- User Signup/Login.
+- Master Admin/Login. 
+- Master Admin: Add New vaccination centers
+- Vaccination Center: Appointments Records, Approve/Reject appointment
+- 
 
 ## Technologies Used
 
